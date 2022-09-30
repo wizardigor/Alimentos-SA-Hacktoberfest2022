@@ -36,7 +36,14 @@ Este ano, os primeiros 40.000 participantes que concluírem com sucesso o desafi
 ***
 ## Regras para contribuir com este repositório
 
--  Em construção.
+-  Esteja atento as Issues, lá estará algumas ideias de melhoria.
+-  Está livre para alterar todo o layout.
+-  Se precisar estilizar, utilize a pasta CSS ou faça uso do Bootstrap 4.6.
+-  Para inserir imagens recomendo usar a pasta img para armazenar.
+-  De forma alguma use imagens improprias, tais como nudez ou violência. Lembre-se a aplicação trata-se de alimentos.
+-  Se for fazer uso de Banco de Dados, usar MySQL, baixe uma cópia do seu banco e armazene na pasta DB.
+-  O arquivo funcoes.php deve ser amplamente utilizado. Abuse da Orientação a Objetos.
+-  Não esqueça de passar no arquivo CONTRIBUTING.md para deixar sua assinatura de contribuidor
 
 ## How to do contributions 
 
