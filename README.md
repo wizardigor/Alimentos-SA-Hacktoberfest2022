@@ -1,4 +1,5 @@
 <h1 align="center"> Hacktoberfest 2022 </h1>
+<p align="center"><img width="200" src="https://www.php.net/images/logos/php-logo.svg"></p>
 
 ![Captura de tela 2022-09-28 224438](https://user-images.githubusercontent.com/51889513/192919634-427409a7-307e-4bdb-bccd-518b5f706dfb.jpg)
 
@@ -8,8 +9,6 @@
         Junte-se ao Hacktoberfest - Aqui! 
     </a>
 </h3>
-
-
 <h4 align="center">Support open source throughout October!</h4>
 <p align="center">Hacktoberfest incentiva a participação na comunidade de código aberto, que cresce.</p>
 
