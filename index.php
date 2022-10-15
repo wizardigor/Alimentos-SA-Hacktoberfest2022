@@ -14,6 +14,8 @@ $menu = new Menu();
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
 
+    <link rel="icon" type="image/png" href="img/icon.png"/>
+    
     <title>Alimentos S.A.</title>
 </head>
 
@@ -21,19 +23,16 @@ $menu = new Menu();
     <?php echo $menu->getNavbar() ?>
 
     <div class="container-fluid">
-        <h1>Alimentos S.A.</h1>
-
-        <div class="row justify-content-md-center">
+        <div class="row justify-content-center m-2">
             <div class="card" style="width: 18rem;">
                 <img src="img/img1.png" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Alimento 1</h5>
                     <p class="card-text">Uma descrição de exemplo breve.</p>
-                    <a href="#" class="btn btn-primary">Comparar</a>
+                    <a href="#" class="btn btn-danger">Comparar</a>
                 </div>
             </div>
         </div>
-
     </div>
 
 
